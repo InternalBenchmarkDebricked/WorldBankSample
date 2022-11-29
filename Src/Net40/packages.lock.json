@@ -6,7 +6,7 @@
         "type": "Direct",
         "requested": "[5.2.9, 5.2.9]",
         "resolved": "5.2.9",
-        "contentHash": "cuVhPjjNMSEFpKXweMNBbsG4RUFuuZpFBm8tSyw309U9JEjcnbB6n3EPb4xwgcy9bJ38ctIbv5G8zXUBhlrPWw=="
+        "contentHash": "cuVhPjjNMSEFpKXwfeMNBbsG4RUFuuZpFBm8tSyw309U9JEjcnbB6n3EPb4xwgcy9bJ38ctIbv5G8zXUBhlrPWw=="
       },
       "Microsoft.Bcl": {
         "type": "Direct",
