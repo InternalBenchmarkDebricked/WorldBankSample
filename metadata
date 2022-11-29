@@ -1,0 +1,750 @@
+{
+  "version": 2.0,
+  "projects": [
+    {
+      "root": "Src/Net40",
+      "filesToScan": [
+        "Src/Net40/Program.cs",
+        "Src/Net40/Properties/AssemblyInfo.cs",
+        "Src/Net40/app.config",
+        "Src/Net40/obj/Debug/.NETFramework,Version\u003dv4.6.1.AssemblyAttributes.cs",
+        "Src/Net40/packages.config",
+        "Src/Net40/packages.lock.json",
+        "Src/Net40/WorldBankSample.csproj"
+      ],
+      "source-dirs": [],
+      "excluded-files": [],
+      "properties": {
+        "dotnet": {
+          "dotnetAssemblyName": "WorldBankSample",
+          "dotnetWebRoot": {
+            "type": "directory",
+            "directory": "Src/Net40/",
+            "exclude": [],
+            "extensions": [
+              "asax",
+              "ascx",
+              "ashx",
+              "asmx",
+              "aspx",
+              "axml",
+              "baml",
+              "baml",
+              "cs",
+              "cshtml",
+              "dll",
+              "exe",
+              "master",
+              "mdl",
+              "mdl",
+              "mod",
+              "mod",
+              "razor",
+              "vb",
+              "vbhtml",
+              "winmd",
+              "xaml"
+            ]
+          },
+          "dotnetOutputDir": {
+            "type": "directory",
+            "directory": "Libs/dotnet/2073940828",
+            "exclude": [],
+            "extensions": [
+              "baml",
+              "dll",
+              "mdl",
+              "mod",
+              "winmd"
+            ]
+          },
+          "csExternAlias": [
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/-1348739070/System.Net.Http.Formatting.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1284469760/System.Net.Http.Extensions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1284469760/System.Net.Http.Primitives.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/77269927/Newtonsoft.Json.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Collections.Concurrent.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Collections.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ComponentModel.Annotations.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ComponentModel.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ComponentModel.EventBasedAsync.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Diagnostics.Contracts.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Diagnostics.Debug.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Diagnostics.Tools.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Diagnostics.Tracing.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Dynamic.Runtime.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Globalization.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.IO.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Linq.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Linq.Expressions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Linq.Parallel.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Linq.Queryable.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Net.NetworkInformation.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Net.Primitives.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Net.Requests.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Net.WebHeaderCollection.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ObjectModel.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Reflection.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Reflection.Emit.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Reflection.Emit.ILGeneration.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Reflection.Emit.Lightweight.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Reflection.Extensions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Reflection.Primitives.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Resources.ResourceManager.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.Extensions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.Handles.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.InteropServices.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.InteropServices.WindowsRuntime.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.Numerics.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.Serialization.Json.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.Serialization.Primitives.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Runtime.Serialization.Xml.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Security.Principal.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ServiceModel.Duplex.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ServiceModel.Http.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ServiceModel.NetTcp.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ServiceModel.Primitives.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.ServiceModel.Security.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Text.Encoding.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Text.Encoding.Extensions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Text.RegularExpressions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Threading.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Threading.Tasks.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Threading.Tasks.Parallel.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Threading.Timer.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Xml.ReaderWriter.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Xml.XDocument.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1881820838/System.Xml.XmlSerializer.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/Microsoft.CSharp.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/mscorlib.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Core.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Data.DataSetExtensions.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Data.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Net.Http.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Net.Http.WebRequest.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Xml.dll"
+              }
+            },
+            {
+              "global": {
+                "type": "file",
+                "path": "Libs/dotnet/1992582251/System.Xml.Linq.dll"
+              }
+            }
+          ],
+          "dotnetPreprocSymbols": [
+            "DEBUG",
+            "TRACE"
+          ],
+          "libDirs": [
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1284469760/System.Net.Http.Extensions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Net.Primitives.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ServiceModel.Security.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Threading.Tasks.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ServiceModel.NetTcp.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Linq.Parallel.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Net.Http.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Xml.XmlSerializer.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Xml.XDocument.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Data.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.InteropServices.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Net.WebHeaderCollection.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ServiceModel.Primitives.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Core.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Reflection.Primitives.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Diagnostics.Contracts.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Threading.Timer.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ComponentModel.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Reflection.Extensions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Xml.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ServiceModel.Duplex.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.Handles.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1284469760/System.Net.Http.Primitives.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ComponentModel.EventBasedAsync.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/-1348739070/System.Net.Http.Formatting.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Xml.Linq.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Text.Encoding.Extensions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Dynamic.Runtime.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Text.Encoding.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Collections.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Xml.ReaderWriter.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Linq.Expressions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Threading.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Text.RegularExpressions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.Extensions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ServiceModel.Http.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.IO.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Reflection.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Reflection.Emit.Lightweight.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Globalization.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ComponentModel.Annotations.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Linq.Queryable.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/77269927/Newtonsoft.Json.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Collections.Concurrent.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Net.Requests.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.Serialization.Xml.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Diagnostics.Tools.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Security.Principal.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Linq.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.InteropServices.WindowsRuntime.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.ObjectModel.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Threading.Tasks.Parallel.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Resources.ResourceManager.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Net.NetworkInformation.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/mscorlib.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Reflection.Emit.ILGeneration.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Reflection.Emit.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.Numerics.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Data.DataSetExtensions.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/Microsoft.CSharp.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Diagnostics.Debug.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.Serialization.Json.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Runtime.Serialization.Primitives.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1992582251/System.Net.Http.WebRequest.dll"
+            },
+            {
+              "type": "file",
+              "path": "Libs/dotnet/1881820838/System.Diagnostics.Tracing.dll"
+            }
+          ],
+          "dotnetApplibs": [
+            {
+              "type": "file",
+              "path": "Libs/dotnet/2073940828/WorldBankSample.exe"
+            }
+          ],
+          "libdirsOnly": true
+        }
+      }
+    }
+  ]
+}
